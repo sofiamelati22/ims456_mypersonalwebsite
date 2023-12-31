@@ -1,0 +1,39 @@
+hr
+{
+	background-color: black; 
+	color: black; 
+	height: 1px; 
+	border-width: 0;
+}
+table, tr, th, td
+{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+tr, td, width
+{
+	padding: 10px ;
+}
+td
+{
+	text-align: left;
+}
+tr
+{
+	background-color: white;
+}
+th
+{
+	background-color: white;
+	color: black;
+}
+h1
+{
+	font-size: 20px; 
+	text-align: center; 
+	font-family: papyrus
+}
+
+
+
+
